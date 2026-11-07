@@ -13,6 +13,11 @@
       "expo-video",
       "@react-native-firebase/app",
       "@react-native-firebase/auth"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7f798bed-832c-4a45-8449-fd4b53a9bfc7"
+      }
+    }
   }
 }

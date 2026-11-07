@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "vbx",
+    "slug": "vbx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.vedatb.vbx"
+    },
+    "plugins": [
+      "expo-video",
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth"
+    ]
+  }
+}
